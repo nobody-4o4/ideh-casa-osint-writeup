@@ -69,14 +69,14 @@ curl -I http://165.227.4.252
 ```
 
 ### 💥 The Plot Twist:
-Both ports 80 and 443 were completely unresponsive.
-
-At this point, most people might think “dead end,” but in OSINT, a dead website isn’t a roadblock — it’s a signpost pointing to the archives. 🗺️
 
 ![Port 80 Unresponsive](assets/screenshot_port80.png)
 ![Port 443 Unresponsive](assets/screenshot_port443.png)
 ![IP Unresponsive](assets/screenshot_ip_check.png)
 
+Both ports 80 and 443 were completely unresponsive.
+
+At this point, most people might think “dead end,” but in OSINT, a dead website isn’t a roadblock — it’s a signpost pointing to the archives. 🗺️
 
 ---
 
